@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">City Navigation</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="curr_population">Güncel Nüfus:  </string>
+    <string name="city">City</string>
+    <string name="_11111">11111</string>
+    <string name="sehir_giriniz">Şehir Giriniz</string>
+    <string name="sehirler">Şehirler</string>
+    <string name="city_detail">City Detail</string>
+    <string name="haritada_goruntule">Haritada Görüntüle</string>
+    <string name="qr_okut">QR OKUT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ara">Ara</string>
+    <string name="ahmet_aydin">Ahmet Aydın</string>
+</resources>
